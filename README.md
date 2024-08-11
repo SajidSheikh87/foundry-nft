@@ -50,7 +50,7 @@ We go through creating 2 different kinds of NFTs.
 ## Quickstart
 
 ```
-git clone https://github.com/Cyfrin/foundry-nft-cu
+git clone https://github.com/SajidSheikh87/foundry-nft
 cd foundry-nft-cu
 forge install
 forge build
